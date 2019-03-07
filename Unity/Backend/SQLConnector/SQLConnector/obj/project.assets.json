@@ -4649,11 +4649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ilmari\\source\\repos\\ConsoleApp1\\ConsoleApp1\\SQLConnector.csproj",
+      "projectUniqueName": "C:\\Users\\Ilmari\\source\\repos\\SQLConnector\\SQLConnector\\SQLConnector.csproj",
       "projectName": "SQLConnectionTest",
-      "projectPath": "C:\\Users\\Ilmari\\source\\repos\\ConsoleApp1\\ConsoleApp1\\SQLConnector.csproj",
+      "projectPath": "C:\\Users\\Ilmari\\source\\repos\\SQLConnector\\SQLConnector\\SQLConnector.csproj",
       "packagesPath": "C:\\Users\\Ilmari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ilmari\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Ilmari\\source\\repos\\SQLConnector\\SQLConnector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
