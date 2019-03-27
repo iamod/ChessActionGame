@@ -1,0 +1,14 @@
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\SQLConnectionTest.deps.json
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\SQLConnectionTest.runtimeconfig.json
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\SQLConnectionTest.runtimeconfig.dev.json
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\SQLConnectionTest.dll
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\SQLConnectionTest.pdb
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\SQLConnectionTest.dll
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\SQLConnectionTest.pdb
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MySql.Data.EntityFramework.dll
+C:\Users\Ilmari\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\MySql.Data.EntityFramework.xml
