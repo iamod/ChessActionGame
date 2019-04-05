@@ -1,0 +1,50 @@
+yleistä
+
+ensimmäinen painallus ei rekisteröidy? esim options painiketta pitää painaa kahdesti ennenkuin tapahtuu mitään.
+sen jälkeen ongelma katoaa.
+
+fadeout animaatio voisi olla nopeampikin.
+omat animaatiot voisivat olla nopeampiampia, vihollisen tuntuvat ihan hyvältä.
+
+
+mikäli painaa muttei päästä irti ja siirtää hiiren pois ruudusta, siirtoa ei tarvitse tapahtua tai muuta samanlaista.
+samanlainen tapahtuma kuin jos shakkinappulasta ei päästä irti niin siirtoa ei vielä ole tapahtunut.
+
+mikäli options on auki voit liikuttaa hahmoa alla jos kosket menuihin
+
+
+peruspeli
+
+peruspeleissä voisi olla myös next nappulla seuraavaan vaikeustasoon.
+
+! kaatui jostain syystä helppo peruspeli
+ja kaatuu samantien keskivaikeassa, vaikuttaa siltä että tietokoneen siirto kaataa pelin.
+firefoxilla antoi memoryleak ilmotuksen.
+
+tietokoneen vuorot hidastuvat ajallaan. nopeutuvat taas kun suuri osa nappuloista syöty,
+mahdollisten siirtojen määrä on suurempi keskipelissä?
+
+mahdollisuus katsoa lopputilannetta peruspelin lopussa. mikä tulee shakkimatti puolivahingossa olisi kiva nähdä miksi voitti.
+tällä hetkellä victory screen on tiellä.
+
+kaksinpeli voisi olla eri palkissa kuin muut sillä miten sille annetaan mitali?
+esim kuningatar ikonin päällä jossain tai jotain?
+
+
+tehtävät
+
+tehtävissä sekunnin emmintä ennenkuin voi liikkua uudelleen on ärsyttävä.
+
+harkintana voisi olla pitää viimeksi käytetty hahmo alustavasti valittuna ennenku tehdään muuta, kuitenkin niin että hahmo on 
+myös valittavissa, jotta vältetään hetki että valitaan valittu hahmo ja tulee itku.
+
+koko dialogiboksi voisi toimia myös selvä nappulana, vaikka se olisikin nähtävillä
+
+retry nappula jollain tavalla olisi luksusta.
+
+kuningatar 1
+painat dialogiboksin selvä painiketta niin liikutat kuningatarta sen alla.
+
+kenraali 6, sotilas olisi voinut syödä kuningatteren mutta ei tehnyt sitä vaan liikkui eteenpäin.
+
+vasen alanurkka tuntuu houkuttelevan tietokonetta.
